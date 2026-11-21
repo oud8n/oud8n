@@ -133,7 +133,7 @@ U can also write me an email with ur offer
 ---
 ```
                        ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-                       ┃  Made with ❤️ and way 2 much ☕    ┃
+                       ┃  Made with ❤️ and way 2 much ☕   ┃
                        ┃      Last updated: 2026            ┃
                        ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
                              ⠀⠀  ⠓⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    
