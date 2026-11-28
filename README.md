@@ -79,14 +79,7 @@ Backend architect | Frontend enthusiast | Security nerd
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
 
  
----
- 
-## 📊 Activity & Stats
 
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=skipy-force&theme=dark&background=1e1e1e&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)](https://git.io/streak-stats)
- 
----
  
 ## 🎓 Currently Learning
  
