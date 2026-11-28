@@ -112,7 +112,7 @@ const interests = {
 Rn I'm looking for: backend & full-stack roles | Cybersecurity prod/projects | different challenges | new friends also
 
 
- *U can also write me an email with ur offer and visit my homepage and find out some more information about me* - https://oud8n.github.io/ouden.dev/
+ *U can also write me an email with ur offer and visit my homepage to find out some more information about me* - https://oud8n.github.io/ouden.dev/
  
 ---
  
